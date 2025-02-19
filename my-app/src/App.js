@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Welcome to My Personal Website</h1>
         <p>
-          これは私の研究や業績を紹介するためのサイトです。
+          おっす。これは私の研究や業績を紹介するためのサイトです。
         </p>
       </header>
     </div>
