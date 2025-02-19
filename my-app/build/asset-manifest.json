@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yuki/static/css/main.f855e6bc.css",
+    "main.js": "/Yuki/static/js/main.944c5f47.js",
+    "static/js/453.ed3810f9.chunk.js": "/Yuki/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Yuki/index.html",
+    "main.f855e6bc.css.map": "/Yuki/static/css/main.f855e6bc.css.map",
+    "main.944c5f47.js.map": "/Yuki/static/js/main.944c5f47.js.map",
+    "453.ed3810f9.chunk.js.map": "/Yuki/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.944c5f47.js"
+  ]
+}
